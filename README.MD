@@ -12,6 +12,6 @@ Simply run the power point and play the game.
 ## How we built it
 Using VBA and PowerPoint macros to make our game interactive.
 ## Challenges we ran into
-We challenged ourselves by learning VBA, none of us had any experience with this language prior to this project. It was a lot of fun, but also very challenging.
+We challenged ourselves by learning VBA, none of us had any experience with this language prior to this project. It was a lot of fun, but also very challenging. There were a ton of unexpected bugs, most of which we were able to iron out.
 ## Accomplishments that we're proud of
 The game is actually quite fun and challenging, I could see myself playing it for a while despite it being made completely on PowerPoint.
